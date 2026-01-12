@@ -29,7 +29,7 @@
 
 ---
 
-## 🧑‍💻 Programming & Technologies
+## 🧑‍💻 I code in
 <p>
   <img src="https://skillicons.dev/icons?i=python" width="40"/>
   <img src="https://skillicons.dev/icons?i=html" width="40"/>
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Tools & Platforms
+## 🛠️ IDE and tools i use
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
   <img src="https://skillicons.dev/icons?i=github" width="40"/>
