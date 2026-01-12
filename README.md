@@ -1,4 +1,4 @@
-# Hi 👋, I'm Arulraj P
+# Hi 👋, I'm Arulraj 
 
 **AI & Data Science Student | Python Learner**
 
