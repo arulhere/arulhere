@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 First-year **Artificial Intelligence & Data Science** Student at [KAHE](https://kahedu.edu.in/) ![KAHE Logo](kahe_logo.png)
+- 🎓 First-year **Artificial Intelligence & Data Science** Student at [KAHE](https://kahedu.edu.in/)
 - 🌱 Currently learning **Python, Data Structures & Algorithms, HTML, CSS, MySQL**  
 - 🧠 Actively solving problems on **LeetCode** to improve logic & problem-solving  
 - 📄 HSLC Score: **83.3%**  
