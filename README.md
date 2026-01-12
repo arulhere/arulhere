@@ -23,7 +23,10 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
   <a href="https://x.com/herewitharul" target="_blank">
-    <img src="images/twitter.png" alt="Twitter">
+    <img src="https://skillicons.dev/icons?i=x" width="40"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canva_Logo.png" width="40"/>
   </a>
 </p>
 
@@ -39,11 +42,11 @@
 
 ---
 
-## 🛠️ IDE and tools i use
+## 🛠️ IDE and Tools I Use
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
   <img src="https://skillicons.dev/icons?i=github" width="40"/>
-  <img src="https://skillicons.dev/icons?i=canva" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canva_Logo.png" width="40"/>
 </p>
 
 ---
