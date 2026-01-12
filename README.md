@@ -17,15 +17,15 @@
 ## 🌐 Social Presence
 <p>
   <a href="https://www.linkedin.com/in/arulraj-in/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
   </a>
 
   <a href="https://www.instagram.com/arulraj__p/?__pwa=1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" alt="Instagram"/>
   </a>
 
   <a href="https://x.com/herewitharul" target="_blank">
-    <img src="./x.png" width="40" alt="X/Twitter"/>
+    <img src="./x.png" width="50" alt="X/Twitter"/>
   </a>
 </p>
 
@@ -34,20 +34,20 @@
 
 ## 🧑‍💻 I code in
 <p>
-  <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
 </p>
 
 ---
 
 ## 🛠️ IDE and Tools I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
-  <img src="./canva.png" width="40" alt="Canva"/>
-  <img src="https://skillicons.dev/icons?i=notion" width="40" alt="Notion"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+  <img src="./canva.png" width="50" alt="Canva"/>
+  <img src="https://skillicons.dev/icons?i=notion" width="50" alt="Notion"/>
 </p>
 
 ---
