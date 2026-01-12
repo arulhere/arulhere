@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
   <a href="https://x.com/herewitharul" target="_blank">
-    <img src="https://skillicons.dev/icons?i=x" width="40"/>
+    <img src="images/twitter.png" alt="Twitter">
   </a>
 </p>
 
