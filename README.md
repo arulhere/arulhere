@@ -19,14 +19,16 @@
   <a href="https://www.linkedin.com/in/arulraj-in/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
   </a>
+
   <a href="https://www.instagram.com/arulraj__p/?__pwa=1" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
   </a>
-  <a href="https://x.com/herewitharul" target="_blank">
-    <img src="./assets/x.png" width="40" alt="X/Twitter"/>
-  </a>
 
+  <a href="https://x.com/herewitharul" target="_blank">
+    <img src="./x.png" width="40" alt="X/Twitter"/>
+  </a>
 </p>
+
 
 ---
 
