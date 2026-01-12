@@ -23,11 +23,9 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
   </a>
   <a href="https://x.com/herewitharul" target="_blank">
-    <img src="https://skillicons.dev/icons?i=x" width="40" alt="X/Twitter"/>
+    <img src="./assets/x.png" width="40" alt="X/Twitter"/>
   </a>
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canva_Logo.png" width="40" alt="Canva"/>
-  </a>
+
 </p>
 
 ---
@@ -46,7 +44,9 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code"/>
   <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canva_Logo.png" width="40" alt="Canva"/>
+  <img src="https://skillicons.dev/icons?i=canva" width="40" alt="Canva"/>
+  <img src="https://skillicons.dev/icons?i=notion" width="40" alt="Notion"/>
+
 </p>
 
 ---
