@@ -64,11 +64,4 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arulhere&show_icons=true&theme=radical" />
-</p>
-
----
-
 ⭐ *Consistency, curiosity, and daily practice lead to success.*
