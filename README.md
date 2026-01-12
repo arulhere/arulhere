@@ -46,9 +46,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code"/>
   <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=canva" width="40" alt="Canva"/>
+  <img src="./canva.png" width="40" alt="Canva"/>
   <img src="https://skillicons.dev/icons?i=notion" width="40" alt="Notion"/>
-
 </p>
 
 ---
