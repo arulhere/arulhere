@@ -46,18 +46,10 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code"/>
   <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
   <img src="./canva.png" width="50" alt="Canva"/>
-  <img src="https://skillicons.dev/icons?i=notion" width="50" alt="Notion"/>
 </p>
 
----
-
-## 🔥 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Arulraj_p?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats"/>
-</p>
-
-🔗 **LeetCode Profile:** [Arulraj_p](https://leetcode.com/u/Arulraj_p/)
 
 ---
 
