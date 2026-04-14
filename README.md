@@ -4,10 +4,15 @@
 ---
 
 ##  About Me
--  Becoming an AI Engineer  
--  Strong focus on C++ & DSA  
--  Consistency > Motivation  
+I am a B.Tech student pursuing Artificial Intelligence and Data Science (2025–2029)
+ 
+I am currently building a strong foundation in programming by learning Python and C++ in parallel, with a focused emphasis on Data Structures and Algorithms (DSA). My goal is to develop a deep understanding of Artificial Intelligence rather than simply using AI tools.
+ 
+My focus is on mastering the fundamentals, building real projects, and continuously improving my skills.
+ 
+I am committed to this learning journey and will regularly share my projects, progress, and insights along the way.
 
+Building skills. Staying consistent. Improving daily.
 ---
 
 ##  Current Journey
@@ -33,6 +38,7 @@ C++ → DSA → Projects → AI
 ![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe%20Express](https://img.shields.io/badge/Adobe%20Express-Design-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-Productivity-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 ##  What I'm Focused On
 -  Programming fundamentals  
 -  DSA mastery  
@@ -40,6 +46,3 @@ C++ → DSA → Projects → AI
 -  Projects  
 
 ---
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=arulhere&show_icons=true)
