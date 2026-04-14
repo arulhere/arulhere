@@ -15,35 +15,24 @@ C++ → DSA → Projects → AI
 
 ---
 
-## Tech Stack & AI Toolkit
+## ⚙️ Tech Stack & AI Toolkit
 
-### Programming & Development
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-App%20Dev-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
----
-
-### 🤖 AI Tools
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-Anthropic-000000?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-AI-000000?style=for-the-badge)
 ![Perplexity](https://img.shields.io/badge/Perplexity-AI-1FB6FF?style=for-the-badge)
 
----
-
-### 🧠 AI Code Assistants
 ![Cursor](https://img.shields.io/badge/Cursor-AI%20Editor-000000?style=for-the-badge)
 ![Antigravity](https://img.shields.io/badge/Antigravity-Tool-555555?style=for-the-badge)
-![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google%20AI%20Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
----
-
-### 🎨 Design & Productivity
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Express](https://img.shields.io/badge/Adobe%20Express-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
+![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe%20Express](https://img.shields.io/badge/Adobe%20Express-Design-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-Productivity-000000?style=for-the-badge&logo=notion&logoColor=white)
 ##  What I'm Focused On
 -  Programming fundamentals  
 -  DSA mastery  
