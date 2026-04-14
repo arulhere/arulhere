@@ -22,12 +22,11 @@ C++ → DSA → Projects → AI → Aptitude
   <img src="https://skillicons.dev/icons?i=cpp,python,flutter" />
 </p>
 
-### Design & Productivity
-<p>
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40"/>
-  <img src="https://cdn.simpleicons.org/adobe/FF0000" height="40"/>
-  <img src="https://cdn.simpleicons.org/notion/000000" height="40"/>
-</p>
+### 🎨 Design & Productivity
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe Express](https://img.shields.io/badge/Adobe%20Express-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ### AI & Tools
 <p>
