@@ -22,12 +22,7 @@ C++ → DSA → Projects → AI
 
 ![C++](https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-App%20Dev-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-AI-000000?style=for-the-badge)
-![Perplexity](https://img.shields.io/badge/Perplexity-AI-1FB6FF?style=for-the-badge)
 
 ![Cursor](https://img.shields.io/badge/Cursor-AI%20Editor-000000?style=for-the-badge)
 ![Antigravity](https://img.shields.io/badge/Antigravity-Tool-555555?style=for-the-badge)
