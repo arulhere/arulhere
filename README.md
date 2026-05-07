@@ -19,4 +19,5 @@ Building skills. Staying consistent. Improving daily.
 -  Projects  
 
 ---
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Arulraj_p)
+<img src="https://leetcode-stats-six.vercel.app/api?username=Arulraj_p&theme=dark" />
+
