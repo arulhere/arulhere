@@ -6,7 +6,7 @@
 ##  About Me
 I am a B.Tech student pursuing Artificial Intelligence and Data Science (2025–2029)
  
-I am currently building a strong foundation in programming by learning Python and C++ in parallel, with a focused emphasis on Data Structures and Algorithms (DSA). My goal is to develop a deep understanding of Artificial Intelligence rather than simply using AI tools.
+I am currently building a strong foundation in programming by learning Python, with a focused emphasis on Data Structures and Algorithms (DSA). My goal is to develop a deep understanding of Artificial Intelligence rather than simply using AI tools.
  
 My focus is on mastering the fundamentals, building real projects, and continuously improving my skills.
 
