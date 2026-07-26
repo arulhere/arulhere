@@ -18,8 +18,3 @@ Building skills. Staying consistent. Improving daily.
 -  AI learning  
 -  Projects  
 
----
-
-## My LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Arulraj_p?theme=dark&font=Nunito&ext=heatmap)
